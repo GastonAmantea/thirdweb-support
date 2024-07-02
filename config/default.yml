@@ -1,0 +1,8 @@
+PORT: 3000
+LOG_LEVEL: debug
+BASE_URL: http://localhost:3000
+
+PRIVATE_KEY:  #wallet private key, must be owner of the contract
+
+#THIRDWEB
+THIRDWEB_CLIENT_ID:  #thirdweb client id
